@@ -1,10 +1,10 @@
 # Abdulfatai Aliyu
 
-## 🚀 Aspiring Full-Stack Web Developer | 🌐 Founder of Prolific Media Hub
+## 🚀 Frontend React/Next.js Developer and Aspiring Full-Stack Web Developer | 🌐 Founder of Prolific Media Hub
 
 ### Full-Stack Web Development Enthusiast:
 
-Hey there! I'm Abdulfatai, a passionate full-stack web development enthusiast currently diving deep into the world of technology. I'm on a journey to master the Mern stack, and so far, I've laid a strong foundation with HTML, CSS, and Bootstrap. Currently, I'm delving into the realm of JavaScript to enhance my coding skills. My goal? To become a proficient full-stack web developer, creating innovative and dynamic web applications.
+Hey there! I'm Abdulfatai, a passionate frontend react/next.js developer and full stack web development enthusiast currently diving deep into the world of technology. I'm on a journey to master the Mern stack, and so far, I've laid a strong foundation with HTML, CSS, and Bootstrap, tailwind, next.js, react.js. Currently, I'm delving into the realm of MERN stack backend to enhance my coding skills. My goal? To become a proficient full-stack web developer, creating innovative and dynamic web applications.
 
 ### Digital Marketing Entrepreneur:
 
@@ -12,7 +12,7 @@ Founder of Prolific Media Hub, my venture into the world of Digital Marketing re
 
 ### Education:
 
-I'm currently a 100-level computer science student at Abu Zaria, blending theoretical knowledge with hands-on experience to shape my future in the tech industry.
+I'm currently a 200-level computer science student at Abu Zaria, blending theoretical knowledge with hands-on experience to shape my future in the tech industry.
 
 ### Embracing Challenges:
 
@@ -28,3 +28,10 @@ Email: abdulfataialiyu4@gmail.com <br>
 Feel free to explore my journey in tech and entrepreneurship. Exciting times ahead as I code my way through challenges and lead Prolific Media Hub to new heights!
 
 Happy coding!
+
+## Credits
+
+- # [ChatGPT](https://chatgpt.com)
+i literarily wrote all that in my mind and he generated this autobiography 😊👏
+
+- # Me Abdulfatai Aliyu 😊
