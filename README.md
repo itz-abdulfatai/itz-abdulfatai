@@ -20,7 +20,6 @@ I thrive on challenges and the thrill of trying new things. My motto is to learn
 
 ### Let's Connect:
 
-[Facebook](https://web.facebook.com/prince.telly/) <br>
 [Instagram](https://www.instagram.com/itz_abdul.fatai/) <br>
 Email: abdulfataialiyu4@gmail.com <br>
 [🌐 Portfolio(still working on it)](https://itz-abdulfatai.github.io/portfolio/)
