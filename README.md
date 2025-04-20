@@ -1,36 +1,43 @@
 # Abdulfatai Aliyu
 
-## 🚀 Frontend React/Next.js Developer and Aspiring Full-Stack Web Developer | 🌐 Founder of Prolific Media Hub
+## 🚀 Full-Stack MERN Developer | 🧠 Microservices | 🌐 WordPress Pro | 📈 Digital Marketing Entrepreneur
 
-### Full-Stack Web Development Enthusiast:
+### About Me
 
-Hey there! I'm Abdulfatai, a passionate frontend react/next.js developer and full stack web development enthusiast currently diving deep into the world of technology. I'm on a journey to master the Mern stack, and so far, I've laid a strong foundation with HTML, CSS, and Bootstrap, tailwind, next.js, react.js. Currently, I'm delving into the realm of MERN stack backend to enhance my coding skills. My goal? To become a proficient full-stack web developer, to create innovative and dynamic web applications.
+Hey there! I'm **Abdulfatai**, a skilled **Full-Stack MERN Developer** with a solid grip on modern web technologies. From crafting dynamic UIs with React/Next.js to building scalable backend systems using Node.js, Express, and MongoDB — I'm fully immersed in the full-stack game. I also specialize in **microservices architecture** for more complex, distributed systems.
 
-### Digital Marketing Entrepreneur:
+When I’m not pushing code, I’m delivering results in **WordPress development**, with hands-on experience creating robust, customised websites. I’ve also explored **Java** and **PHP**, expanding my developer toolbox even further.
 
-Founder of Prolific Media Hub, my venture into the world of Digital Marketing revolves around providing comprehensive digital solutions for businesses. Prolific Media Hub is committed to offering services like FB and IG ads, Go High Level CRM, lead nurturing, automation, and social media management. Our unique selling proposition lies in a result-based approach, sales team training, and timely insights. Although we've just begun, our sights are set on achieving short and long-term goals.
+### 🚀 What I Do
 
-### Education:
+- ✅ Full-Stack Web Development (MERN)
+- ✅ Microservices Architecture
+- ✅ WordPress Development
+- ✅ Digital Marketing (FB/IG Ads, Go High Level CRM, Automation)
+- ✅ Freelance Work on [Upwork](https://www.upwork.com/freelancers/~01947ddbabf861c9db?mp_source=share) & [Fiverr](https://www.fiverr.com/s/KeRpB3W)
+- ✅ Founder, [Prolific Media Hub](https://itz-abdulfatai.github.io/portfolio/smma-abdul/)
 
-I'm currently a 200-level computer science student at Abu Zaria, blending theoretical knowledge with hands-on experience to shape my future in the tech industry.
+Whether you're a business looking to scale or an individual needing a smart web solution, I bring technical expertise and marketing strategy to the table.
 
-### Embracing Challenges:
+### 📚 Education
 
-I thrive on challenges and the thrill of trying new things. My motto is to learn by doing, even if it means taking on tasks with a slim chance of success. In my pursuit of knowledge, I've embraced the risks and dangers that come with exploring uncharted territories.
+Currently a **200-level Computer Science student** at **ABU Zaria**, where I’m combining theoretical foundations with real-world development experience.
 
-### Let's Connect:
+### 🌍 Let’s Connect
 
-[Instagram](https://www.instagram.com/itz_abdul.fatai/) <br>
-Email: abdulfataialiyu4@gmail.com <br>
-[🌐 Portfolio](https://abdul-portfolio-lw7s.onrender.com/)
+- 📸 [Instagram](https://www.instagram.com/itz_abdul.fatai/)
+- 🐦 [Twitter/X](https://x.com/itz_abdulfatai)
+- 🌐 [Portfolio Website](https://abdul-portfolio-lw7s.onrender.com/)
+- 💻 [GitHub](https://github.com/itzabdulfatai)
+- 📬 Email: abdulfataialiyu4@gmail.com
 
-You can explore my journey in tech and entrepreneurship. Exciting times ahead as I code my way through challenges and lead Prolific Media Hub to new heights!
+---
 
-Happy coding!
+### 👏 Credits
 
-## Credits
+- [Chatgpt](https://chatgpt.com) for helping turn my thoughts into clean markdown 😄  
+- [Me – Abdulfatai Aliyu](https://abdul-portfolio-lw7s.onrender.com/) — for doing the work that makes this README real 💪
 
-- ### [ChatGPT](https://chatgpt.com)
-      I wrote all that in my mind, and he generated this bio section 😊👏
+---
 
-- ### [Me Abdulfatai Aliyu](https://abdul-portfolio-lw7s.onrender.com/) 😊
+> Always building. Always learning. Always pushing forward 🚀
