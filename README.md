@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Development Enthusiast:
 
-Hey there! I'm Abdulfatai, a passionate frontend react/next.js developer and full stack web development enthusiast currently diving deep into the world of technology. I'm on a journey to master the Mern stack, and so far, I've laid a strong foundation with HTML, CSS, and Bootstrap, tailwind, next.js, react.js. Currently, I'm delving into the realm of MERN stack backend to enhance my coding skills. My goal? To become a proficient full-stack web developer, creating innovative and dynamic web applications.
+Hey there! I'm Abdulfatai, a passionate frontend react/next.js developer and full stack web development enthusiast currently diving deep into the world of technology. I'm on a journey to master the Mern stack, and so far, I've laid a strong foundation with HTML, CSS, and Bootstrap, tailwind, next.js, react.js. Currently, I'm delving into the realm of MERN stack backend to enhance my coding skills. My goal? To become a proficient full-stack web developer, to create innovative and dynamic web applications.
 
 ### Digital Marketing Entrepreneur:
 
@@ -16,21 +16,21 @@ I'm currently a 200-level computer science student at Abu Zaria, blending theore
 
 ### Embracing Challenges:
 
-I thrive on challenges and the thrill of trying new things. My motto is to learn by doing, even if it means taking on tasks with a slim chance of success. I've embraced the risks and dangers that come with exploring uncharted territories in my pursuit of knowledge.
+I thrive on challenges and the thrill of trying new things. My motto is to learn by doing, even if it means taking on tasks with a slim chance of success. In my pursuit of knowledge, I've embraced the risks and dangers that come with exploring uncharted territories.
 
 ### Let's Connect:
 
 [Instagram](https://www.instagram.com/itz_abdul.fatai/) <br>
 Email: abdulfataialiyu4@gmail.com <br>
-[🌐 Portfolio(still working on it)](https://itz-abdulfatai.github.io/portfolio/)
+[🌐 Portfolio](https://abdul-portfolio-lw7s.onrender.com/)
 
-Feel free to explore my journey in tech and entrepreneurship. Exciting times ahead as I code my way through challenges and lead Prolific Media Hub to new heights!
+You can explore my journey in tech and entrepreneurship. Exciting times ahead as I code my way through challenges and lead Prolific Media Hub to new heights!
 
 Happy coding!
 
 ## Credits
 
-- # [ChatGPT](https://chatgpt.com)
-i literarily wrote all that in my mind and he generated this autobiography 😊👏
+- ### [ChatGPT](https://chatgpt.com)
+      I wrote all that in my mind, and he generated this bio section 😊👏
 
-- # Me Abdulfatai Aliyu 😊
+- ### [Me Abdulfatai Aliyu](https://abdul-portfolio-lw7s.onrender.com/) 😊
