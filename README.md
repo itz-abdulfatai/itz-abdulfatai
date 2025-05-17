@@ -1,6 +1,6 @@
 # Abdulfatai Aliyu
 
-## 🚀 Full-Stack MERN Developer | 🧠 Microservices | 🌐 WordPress Pro | 📈 Digital Marketing Entrepreneur
+## 🚀 Full-Stack MERN Developer | 🧠 Microservices | 🌐 WordPress Pro | 📈 Digital Marketing Entrepreneur | Entry-Level AI and Automation Specialist
 
 
 
