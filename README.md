@@ -20,7 +20,7 @@ Freelancing on [Upwork](https://www.upwork.com/freelancers/~01947ddbabf861c9db?m
 
 Whether you’re building a product, scaling a platform, or experimenting with new ideas, I enjoy turning concepts into solid, working software.
 
-Let’s Connect<br><br> 🌐 [Portfolio Website](https://abdul-portfolio-lw7s.onrender.com/)<br>    📬 [Email](mailto:abdulfataialiyu4@gmail.com)<br>
+Let’s Connect<br><br> 🌐 [Portfolio Website](https://abdul-portfolio-lw7s.onrender.com?utm_source=github-profile)<br>    📬 [Email](mailto:abdulfataialiyu4@gmail.com)<br>
 
 <br><br><br>📚 Education<br><br>Currently a 3rd year Computer Science student at ABU Zaria, where I’m combining theoretical foundations with real-world development experience.
 
