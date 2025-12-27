@@ -5,9 +5,24 @@
 
 
 # 💫 About Me:
-Hey there! I'm Abdulfatai, a skilled Full-Stack MERN Developer with a solid grip on modern web technologies. From crafting dynamic UIs with React/Next.js to building scalable backend systems using Node.js, Express, and MongoDB — I'm fully immersed in the full-stack game. I also specialise in microservices architecture for more complex, distributed systems.<br><br>When I’m not pushing code, I’m delivering results in WordPress development, with hands-on experience creating robust, customised websites. I’ve also explored Java and PHP, expanding my developer toolbox even further.<br><br><br>🚀 What I Do<br><br>    ✅ Full-Stack Web Development (MERN)<br>    ✅ Microservices Architecture<br>    ✅ WordPress Development<br>    ✅ Digital Marketing (FB/IG Ads, Go High Level CRM, Automation)<br>     ✅ Freelance Work on [Upwork](https://www.upwork.com/freelancers/~01947ddbabf861c9db?mp_source=share) & [Fiverr](https://www.fiverr.com/s/KeRpB3W) <br>
-✅ Founder, [Prolific Media Hub](https://itz-abdulfatai.github.io/portfolio/smma-abdul/)<br>Whether you're a business looking to scale or an individual needing a smart web solution, I bring technical expertise and marketing strategy to the table.<br><br><br>📚 Education<br><br>Currently a 200-level Computer Science student at ABU Zaria, where I’m combining theoretical foundations with real-world development experience.<br><br><br>🌍 Let’s Connect<br><br> 🌐 [Portfolio Website](https://abdul-portfolio-lw7s.onrender.com/)<br>    📬 [Email](mailto:abdulfataialiyu4@gmail.com)<br>
 
+Hey there, I’m Abdulfatai 👋
+A full-stack developer focused on building scalable, production ready web and mobile applications.
+
+I build clean, responsive user interfaces with React, Next.js, and Tailwind CSS and design structured, scalable backend systems with Node.js, Express, NestJS, MongoDB, PostgreSQL, and more. I also build cross-platform mobile apps with React Native and Flutter, and also work on microservices and distributed systems.
+
+Beyond core development, I have solid experience deploying and managing applications on AWS, using Docker, Firebase, and Supabase, and building real-time features with WebSockets. I care deeply about performance, clean architecture, and writing maintainable code.
+
+I also work with WordPress for business websites and custom solutions, and I’ve explored Java and PHP, which helps me adapt quickly across different codebases and stacks.
+
+Founder of Casflow.
+Freelancing on [Upwork](https://www.upwork.com/freelancers/~01947ddbabf861c9db?mp_source=share) and [Fiverr](https://www.fiverr.com/s/KeRpB3W) <br>.
+
+Whether you’re building a product, scaling a platform, or experimenting with new ideas, I enjoy turning concepts into solid, working software.
+
+Let’s Connect<br><br> 🌐 [Portfolio Website](https://abdul-portfolio-lw7s.onrender.com/)<br>    📬 [Email](mailto:abdulfataialiyu4@gmail.com)<br>
+
+<br><br><br>📚 Education<br><br>Currently a 3rd year Computer Science student at ABU Zaria, where I’m combining theoretical foundations with real-world development experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_abdul_fatai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulfatai-aliyu-b1900a293) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itz_abdulfatai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itz_abdulfatai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCkG0oTca_YU10UkOUnZbIXA) 
